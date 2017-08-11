@@ -27,8 +27,8 @@ The application was built using eXistdb, an opensource,
 native XML database.
 To deploy the application:
 * Clone this repository
-* Take the cscie18xteamfinalproject0.1.
-xar file located in the Build directory and
+* Take the **cscie18xteamfinalproject0.1.
+xar** file located in the Build directory and
 upload to eXistdb using the Package Manager
 * Go to http://localhost:8080/exist/apps/cscie18xteamfinalproject/
 index.html to
