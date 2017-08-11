@@ -1,11 +1,11 @@
 #### Harvard Extension School December 2015
-# CSCIE 18 Web development using XML Final Project / Fall 2015
+# CSCIE 18 Web development using XML Final Project
 
 
 ## Team
 Team name: xTeam
 
-Tema members: 
+Team members: 
 * Frank Krazer
 * Gwong Long
 * Otto Luna
@@ -40,4 +40,4 @@ indexing will be reapplied to the collection of XML source files and all pages
 should load significantly faster.
 
 ## Project description
-You can find a comprehensive project description in the CSCIE-18FinalProjectxTeam Report.pdf document in this repository.
+You can find a comprehensive project description in [here](../blob/master/CSCIE-18FinalProjectxTeam%20Report.pdf).
