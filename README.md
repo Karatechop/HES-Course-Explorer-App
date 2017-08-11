@@ -30,8 +30,7 @@ To deploy the application:
 * Take the **cscie18xteamfinalproject0.1.
 xar** file located in the Build directory and
 upload to eXistdb using the Package Manager
-* Go to http://localhost:8080/exist/apps/cscie18xteamfinalproject/
-index.html to
+* Go to http://localhost:8080/exist/apps/cscie18xteamfinalproject/index.html to
 access the website’s landing page.
 * If the home page (or any other page) takes a long time to load (more than 30
 seconds), make a small modification to the.xconf file located in the Data directory
