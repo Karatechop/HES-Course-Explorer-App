@@ -40,4 +40,4 @@ indexing will be reapplied to the collection of XML source files and all pages
 should load significantly faster.
 
 ## Project description
-You can find a comprehensive project description in [here](../blob/master/CSCIE-18FinalProjectxTeam%20Report.pdf).
+You can find a comprehensive project description in [here](../master/CSCIE-18FinalProjectxTeam%20Report.pdf).
