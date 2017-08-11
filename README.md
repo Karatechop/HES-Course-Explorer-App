@@ -1,8 +1,10 @@
 #### Harvard Extension School December 2015
-# CSCIE 18: Final Project / Fall 2015
+# CSCIE 18 Web development using XML Final Project / Fall 2015
+
 
 ## Team
 Team name: xTeam
+
 Tema members: 
 * Frank Krazer
 * Gwong Long
