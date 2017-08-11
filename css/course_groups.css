@@ -1,0 +1,70 @@
+
+.departmentList {
+    list-style-type: none;
+}
+
+.departmentHeader {
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.courseGroupList {
+    list-style-type: none;
+}
+
+.courseGroupHeader {
+    list-style-type: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.courseName {
+    font-size: 14px;
+
+}
+
+.detailsHeader {
+    font-size: 10px;
+    font-weight: bold;
+    text-align:right;
+    
+}
+
+.detailsData {
+    font-size: 10px;
+    font-weight: normal;
+    text-align:left;
+}
+
+.term_code{
+    width: 50px;
+}
+
+.days_of_week {
+    width: 200px;
+}
+
+.start_time {
+    width: 120px;
+}
+
+.course_idName {
+    width: 60px;
+}
+
+.course_id {
+    width: 50px;
+}
+
+.class_numberName {
+    width: 60px;
+}
+
+.class_number {
+    width: 50px;
+}
+
+.courseDetailsHeader {
+    background-color: #f2dede;
+}

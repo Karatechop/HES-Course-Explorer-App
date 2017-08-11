@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>CSCIE 18 - XTeam - Final Project</description>
+    <author/>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>cscie18-xteam-finalproject</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <deployed>2015-12-15T16:19:22.178+01:00</deployed>
+</meta>
